@@ -1,3 +1,11 @@
+############# NECESSARIOS ######################
+- Node JS
+- Git
+- Npm WebPack
+- Sublime , VS Code ou qualquer Ide ou Editor de texto que desejar
+- Conhecimento Básico em React
+
+#################################################
 # React Series
-Este pacote contém os arquivos básicos para iniciar as vídeo aulas
-de React do [Canal V++](https://youtube.com/user/VPlusPlus).
+Referencias do Curso de React do [Canal V++](https://youtube.com/user/VPlusPlus).
+#################################################
